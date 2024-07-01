@@ -1,5 +1,5 @@
 import React from 'react'
-import Logo from "../images/Logo.jpg"
+import Logo from "../images/Logo .svg"
 
 export default function Footer() {
   return (
@@ -16,8 +16,8 @@ export default function Footer() {
       </ul>
       <h3>Contact</h3>
       <ul>
-        <li><a href='/address'>Address<br>Street 19, New York</br></a></li>
-        <li><a href='/phone'>Phone<br>0312478596</br></a></li>
+        <li><a href='/address'>AddressStreet 19, New York</a></li>
+        <li><a href='/phone'>Phone0312478596</a></li>
       </ul>
       <h3>Social Media</h3>
       <ul>
